@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="1e072573-cf8d-4c1f-8344-4c661f748510" name="Discovery Account System" url="jdbc:oracle:thin:@//localhost/1521" driverClass="oracle.jdbc.OracleDriver" />
+    </data-sources>
+  </component>
+</project>
